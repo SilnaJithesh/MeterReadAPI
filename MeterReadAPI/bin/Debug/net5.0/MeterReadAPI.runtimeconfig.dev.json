@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\silna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\silna\\.nuget\\packages"
+    ]
+  }
+}
